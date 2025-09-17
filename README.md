@@ -1,6 +1,6 @@
 # cyber-portfolio
 Portfolio: AD lab, Patch Management, SIEM detections
-# Cybersecurity Portfolio – [Your Name]
+# Cybersecurity Portfolio – [Gayathri Devi Peketi]
 
 👋 Welcome! I am a Master of Cybersecurity student at RMIT University, Melbourne, with 3.5 years of prior IT Security experience at Infosys.  
 This repository highlights my projects, labs, and writeups as I build expertise across **red-team penetration testing** and **blue-team defense/incident response**.  
@@ -24,17 +24,10 @@ This repository highlights my projects, labs, and writeups as I build expertise 
 ---
 
 ## 📂 Projects
-**Patch Management & CVE Remediation (Enterprise Lab)**  
+1. **Patch Management & CVE Remediation (Enterprise Lab)**  
    - Automated CVE patch deployment in lab using SCCM.  
    - Created compliance dashboard and remediation reports.  
   
-
----
-
-## 📑 Reports
-- [Sample Pentest Executive Report](./reports/sample-pentest-exec-summary.md)  
-- [Technical Lab Report: AD Exploitation](./reports/ad-pentest-technical.md)  
-
 ---
 
 ## 📌 CTFs & Training
@@ -45,5 +38,6 @@ This repository highlights my projects, labs, and writeups as I build expertise 
 ---
 
 ## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/gayathri-devi-peketi/
+- LinkedIn: https://www.linkedin.com/in/gayathri-devi-peketi
 - Email: gayathridevipeketi@gmail.com
+
