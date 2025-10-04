@@ -8,7 +8,7 @@ This repository highlights my projects, labs, and writeups as I build expertise 
 ---
 
 ## 🎓 Background
-- Master of Cybersecurity @ RMIT University (Expected YYYY)  
+- Master of Cybersecurity @ RMIT University (Expected course complete - 2027)  
 - 3.5 yrs IT Technical Analyst @ Infosys (Patch Management, AD, CyberArk, Endpoint Security)  
 - Strong foundation in enterprise IT + expanding into offensive/defensive security  
 
